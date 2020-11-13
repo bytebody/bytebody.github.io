@@ -54,7 +54,7 @@ bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimag
 useGravatar = false # we use this option highest priority
 location = "Beijing, China"
 organization = "Baidu.Inc"
-link = "https://github.com/zzossig/hugo-theme-zzo"
+link = "https://github.com/bytebody/bytebody.github.io"
 
 # sidebar
 enableBio = true # in home page sidebar
@@ -141,8 +141,8 @@ commento = false
 [socialOptions] # if set, social icons will show up.
   email = "mailto:bytebody@gmail.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
+  facebook = ""
+  twitter = ""
   github = "https://github.com/bytebody"
   stack-overflow = ""
   instagram = ""
