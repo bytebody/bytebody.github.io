@@ -1,0 +1,5 @@
+baseURL = "https://bytebody.github.io/"
+languageCode = "zh-cn"
+title = "Byte Body"
+theme = "paper"
+
