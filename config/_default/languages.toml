@@ -1,0 +1,13 @@
+[cn]
+  title = "王达武"
+  languageName = "中文"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/cn"
+  
+[en]
+  title = "Zzossig's Blog"
+  languageName = "English"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/en"
