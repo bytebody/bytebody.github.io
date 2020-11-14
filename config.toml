@@ -1,25 +1,25 @@
 baseURL = "https://bytebody.github.io/"
-languageCode = "zh-cn"
 title = "Byte Body"
 theme = "paper"
+languageCode = "zh-Hans"
 
 [menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 10
-
   [[menu.main]]
     identifier = "articles"
     name = "Articles"
     url = "/articles/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
     weight = 20
 
   [[menu.main]]
-    identifier = "notes"
-    name = "Notes"
-    url = "/notes/"
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
     weight = 30
 
   [[menu.main]]
@@ -27,3 +27,12 @@ theme = "paper"
     name = "About"
     url = "/about/"
     weight = 40
+
+[[params.social]]
+  name = "email"
+  url  = "mailto:bytebody@gmail.com"
+
+[[params.social]]
+  name = "github"
+  url  = "https://github.com/bytebody"
+
