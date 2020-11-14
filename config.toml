@@ -6,24 +6,24 @@ theme = "paper"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "home"
+    name = "Home"
     url = "/"
     weight = 10
 
   [[menu.main]]
     identifier = "articles"
-    name = "articles"
+    name = "Articles"
     url = "/articles/"
     weight = 20
 
   [[menu.main]]
     identifier = "notes"
-    name = "notes"
+    name = "Notes"
     url = "/notes/"
     weight = 30
 
   [[menu.main]]
     identifier = "about"
-    name = "about"
+    name = "About"
     url = "/about/"
     weight = 40
