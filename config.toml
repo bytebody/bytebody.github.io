@@ -3,3 +3,27 @@ languageCode = "zh-cn"
 title = "Byte Body"
 theme = "paper"
 
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "articles"
+    name = "articles"
+    url = "/articles/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "notes"
+    name = "notes"
+    url = "/notes/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+    weight = 40
